@@ -1,4 +1,4 @@
-# Evaluation of Vehicle-Maneuver
+# Evaluation of Vehicle-Maneuver in front of an emergency vehicle
 
 This repository contains code for training and testing a maneuver prediction and decision-making algorithm.
 1. Data Preprocessing
