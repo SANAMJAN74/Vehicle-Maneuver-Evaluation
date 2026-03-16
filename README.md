@@ -3,7 +3,7 @@
 This repository contains code for training and testing a maneuver prediction and decision-making algorithm.
 1. Data Preprocessing
    - Cleaned and preprocessed datasets of different driving maneuvers.
-   - Prepared the data for training by organizing it into meaningful input features and labels.
+   - Prepared the data for training by organizing it into input features and labels.
 
 3. Scenario Generation for Decision Making
    - Considered both the controlled vehicle and surrounding vehicles to simulate multiple maneuvering options.
