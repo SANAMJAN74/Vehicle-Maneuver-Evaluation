@@ -12,10 +12,10 @@ This repository contains code for training and testing a maneuver prediction and
 5. Models Training
 
   - HMM (Hidden Markov Model):
-    Trained for maneuver prediction using time-series features such as vehicle speed, longitudinal position, and lateral position.
+    for maneuver prediction using time-series features such as vehicle speed, longitudinal position, and lateral position.
 
   - Decision Tree:
-    Trained for decision-making using relative information (longitudinal/lateral positions and speeds) of surrounding vehicles.
+    for decision-making using relative information (longitudinal/lateral positions and speeds) of surrounding vehicles.
 
 6. Proposed Algorithm Testing
   - tests to evaluate the performance of the proposed models for maneuver prediction and decision making.
